@@ -1,11 +1,8 @@
 hello world
 commit
-<<<<<<< HEAD
 bye
 
 
 
 gggg
-=======
 bye
->>>>>>> d1ae00557ee0b52a009740471ea3d3fdfd261d92
